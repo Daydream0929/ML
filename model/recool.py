@@ -8,8 +8,6 @@ output  盘管供冷量 = 预处理后空气总焓 - 再冷后空气总焓
 '''
 
 import pandas as pd
-import numpy
-import seaborn as sns
 
 data_path = './data/recool/2023_04_03.csv'
 
